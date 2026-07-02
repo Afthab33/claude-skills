@@ -37,7 +37,7 @@ Symlinking (rather than copying) means `git pull` keeps your local skills up to 
 
 | Skill | Description |
 |---|---|
-| _add rows as you add skills_ | |
+| _html-deliverable_ | |
 
 ## Contributing
 
